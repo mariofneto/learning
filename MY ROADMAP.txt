@@ -1,0 +1,39 @@
+ROADMAP BASEADO EM VAGAS JR E NESSE SITE https://www.thecsharpacademy.com/
+
+Iniciando: 19/01/2023										Tentar fazer todos os projetos
+Finalizando: ?
+---------------------------------------------------------------------------------------------------
+(Jquery e TypeScript) => maioria das vagas pedem!
+
+<<<MVC>>> Feito: ?
+Learn the fundamentals of ASP.NET MVC
+
+	Course For Beginners JavaScript: 
+		https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia(menosde2hrs)
+	Course For Beginners Bootstrap5:
+		https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia(menosde2hrs)
+	
+
+<<<Angular>>> Feito: ?
+Learn how .NET works together with this powerful front-end framework
+
+	Documentation: 
+		https://angular.io/tutorial
+	Course Angular + C# Web Api:
+		https://www.youtube.com/watch?v=S5dzfuh3t8U&ab_channel=CodAffection(menosde2hrs)
+
+<<<React>>> Feito: ?
+Learn how .NET works together with this powerful front-end framework
+
+	Documentation:
+		https://reactjs.org/docs/getting-started.html
+	Crud React:
+		https://www.freecodecamp.org/news/fetch-data-react/
+
+<<<Blazor>>> Feito: ?
+Learn the latest .NET solution for web development
+	
+	Crud Blazor:
+		https://www.c-sharpcorner.com/blogs/create-a-net-6-app-on-blazor-wasm-for-crud-operations-with-ef-core
+	Calling JavaScript from C# | Blazor:
+		https://www.youtube.com/watch?v=p4MD6ycpQpY&ab_channel=NickChapsas
