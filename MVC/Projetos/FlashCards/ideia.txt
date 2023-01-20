@@ -1,0 +1,10 @@
+FlashCards
+
+Coisas que tem que ter:
+
+- propriedades : 
+	text front
+	text back
+
+- front card e back card
+- mudar a cor quando mudar o lado

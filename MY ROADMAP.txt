@@ -8,7 +8,7 @@ Finalizando: ?
 <<<MVC>>> Feito: ?
 Learn the fundamentals of ASP.NET MVC
 
-	Course For Beginners JavaScript: 
+	Course For Beginners JavaScript: (feito)
 		https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia(menosde2hrs)
 	Course For Beginners Bootstrap5:
 		https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia(menosde2hrs)
